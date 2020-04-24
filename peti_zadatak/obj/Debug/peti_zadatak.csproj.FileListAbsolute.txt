@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\peti_zadatak\bin\Debug\peti_zadatak.exe.config
+C:\Users\Korisnik\source\repos\peti_zadatak\bin\Debug\peti_zadatak.exe
+C:\Users\Korisnik\source\repos\peti_zadatak\bin\Debug\peti_zadatak.pdb
+C:\Users\Korisnik\source\repos\peti_zadatak\obj\Debug\peti_zadatak.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\peti_zadatak\obj\Debug\peti_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\peti_zadatak\obj\Debug\peti_zadatak.exe
+C:\Users\Korisnik\source\repos\peti_zadatak\obj\Debug\peti_zadatak.pdb

@@ -1,0 +1,8 @@
+1.Pitanje
+Duboko kopiranje nije potrebno budući da stvaramo samo kopije članova trenutne klase.
+
+2.Pitanje
+Metoda ima dvije odgovornosti: prva je inicijalizacija, a druga postavljanje vrijednosti.
+
+3. Pitanje
+Pisati će sve u istu datoteku

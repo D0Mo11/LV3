@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\drugi_zadatak\bin\Debug\drugi_zadatak.exe.config
+C:\Users\Korisnik\source\repos\drugi_zadatak\bin\Debug\drugi_zadatak.exe
+C:\Users\Korisnik\source\repos\drugi_zadatak\bin\Debug\drugi_zadatak.pdb
+C:\Users\Korisnik\source\repos\drugi_zadatak\obj\Debug\drugi_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\drugi_zadatak\obj\Debug\drugi_zadatak.exe
+C:\Users\Korisnik\source\repos\drugi_zadatak\obj\Debug\drugi_zadatak.pdb

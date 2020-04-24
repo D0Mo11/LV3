@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\bin\Debug\cetvrti_zadatak.exe.config
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\bin\Debug\cetvrti_zadatak.exe
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\bin\Debug\cetvrti_zadatak.pdb
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\obj\Debug\cetvrti_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\obj\Debug\cetvrti_zadatak.exe
+C:\Users\Korisnik\source\repos\cetvrti_zadatak\obj\Debug\cetvrti_zadatak.pdb

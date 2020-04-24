@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.exe
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.deps.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.runtimeconfig.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.dll
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\prvi_zadatak.pdb
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.dll
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.pdb
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\prvi_zadatak.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.exe
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.deps.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.runtimeconfig.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.dll
+C:\Users\Korisnik\source\repos\RPPOON3\bin\Debug\netcoreapp3.1\RPPOON3.pdb
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.dll
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.pdb
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\RPPOON3\obj\Debug\netcoreapp3.1\RPPOON3.csprojAssemblyReference.cache
